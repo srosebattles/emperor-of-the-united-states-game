@@ -1,0 +1,15 @@
+{
+  "name": "emperor-of-the-united-states-game",
+  "description": "The Emperor of the United States, a gently comic San Francisco text adventure for Claude",
+  "owner": {
+    "name": "Sarah Rose Battles",
+    "url": "https://github.com/srosebattles"
+  },
+  "plugins": [
+    {
+      "name": "emperor-of-the-united-states",
+      "source": "./",
+      "description": "A gently comic text adventure: inherit Emperor Norton's unfinished decrees and spend one week in today's San Francisco"
+    }
+  ]
+}

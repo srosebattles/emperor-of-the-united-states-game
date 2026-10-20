@@ -1,0 +1,34 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512" width="512" height="512">
+  <title>Emperor Norton's plumed beaver hat</title>
+  <rect width="512" height="512" fill="#7a2333"/>
+
+  <!-- Fog rolling in along the bottom -->
+  <path d="M0 452 C70 428 140 456 210 440 C290 422 360 454 430 436 C470 426 496 432 512 438 L512 512 L0 512 Z" fill="#a14a58" opacity="0.55"/>
+
+  <!-- Brim, curled at both ends; the crown sits on top of it -->
+  <path d="M92 352 C112 340 140 346 160 352 C200 362 312 362 352 352 C372 346 400 340 420 352 C430 378 380 404 256 404 C132 404 82 378 92 352 Z" fill="#1d1a24"/>
+
+  <!-- Plume, sweeping up from the band and curling over the crown -->
+  <path d="M316 334 C384 300 424 222 404 150 C394 112 354 84 312 92 C346 116 362 168 352 220 C344 262 332 300 316 334 Z" fill="#f4ead8"/>
+  <path d="M318 330 C358 278 384 196 344 106" fill="none" stroke="#d9c6a3" stroke-width="5" stroke-linecap="round"/>
+  <g fill="none" stroke="#7a2333" stroke-width="5" stroke-linecap="round">
+    <path d="M400 238 L384 236"/>
+    <path d="M410 196 L392 198"/>
+    <path d="M408 156 L390 162"/>
+    <path d="M386 112 L374 124"/>
+    <path d="M378 286 L364 280"/>
+  </g>
+
+  <!-- Crown of the hat, slightly flared toward the top -->
+  <path d="M172 150 C172 138 340 138 340 150 L328 362 C328 374 184 374 184 362 Z" fill="#26222f"/>
+  <ellipse cx="256" cy="150" rx="84" ry="16" fill="#38334a"/>
+  <!-- A little shine -->
+  <path d="M198 172 L208 304" stroke="#413b52" stroke-width="10" stroke-linecap="round"/>
+
+  <!-- Band -->
+  <path d="M180 312 C180 322 332 322 332 312 L330 346 C330 358 182 358 182 346 Z" fill="#e0b04a"/>
+
+  <!-- Brass rosette pinning the plume -->
+  <circle cx="314" cy="330" r="22" fill="#e0b04a" stroke="#b8862b" stroke-width="5"/>
+  <circle cx="314" cy="330" r="8" fill="#b8862b"/>
+</svg>

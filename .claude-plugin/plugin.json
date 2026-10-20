@@ -1,0 +1,16 @@
+{
+  "$schema": "https://anthropic.com/claude-code/plugin.schema.json",
+  "name": "emperor-of-the-united-states",
+  "displayName": "The Emperor of the United States",
+  "version": "1.0.0",
+  "description": "A grounded, warm, gently comic text adventure in contemporary San Francisco. You've inherited the unfinished decrees of Emperor Norton I and have one week to decide what, if anything, that inheritance means.",
+  "author": {
+    "name": "Sarah Rose Battles",
+    "url": "https://llmtextgames.xyz"
+  },
+  "homepage": "https://llmtextgames.xyz",
+  "repository": "https://github.com/srosebattles/emperor-of-the-united-states-game",
+  "license": "CC-BY-4.0",
+  "icon": "./assets/icon.png",
+  "keywords": ["game", "text-adventure", "interactive-fiction", "san-francisco", "comedy"]
+}
